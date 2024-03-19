@@ -1,0 +1,126 @@
+/* 1 Project  */
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+.card-container {
+  background-color: #52de77;
+  width: 500px;
+  border-radius: 4px;
+  padding: 50px 30px;
+  font-size: 16px;
+  margin: 40px auto;
+}
+.btn {
+  background-color: white;
+  color: black;
+  padding: 14px 25px;
+  border: none;
+  font-weight: 700;
+  border-radius: 30px;
+  cursor: pointer;
+}
+/* 2 Project */
+.img-container {
+  width: 350px;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  font-family: "Ysabeau Infant";
+  margin: auto;
+}
+.img {
+  width: 100%;
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
+}
+.contant-container {
+  padding: 10px;
+  font-size: 16px;
+  word-spacing: 10px;
+  line-height: 1.4
+}
+
+.btn-dark {
+  border: none;
+  padding: 14px 40px;
+  background-color: white;
+  color: blue;
+  font-size: 16px;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* 3 project */
+
+.login {
+  text-align: center;
+  width: 400px;
+  margin: 20px auto;
+}
+.brand-logo {
+  width: 100px;
+}
+.input {
+  width: 100%;
+  font-size: 16px;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+  padding: 16px;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid lightgray;
+}
+.from-button {
+  padding: 14px 30px;
+  width: 80%;
+  background-color: black;
+  border-radius: 22px;
+  font-size: 16px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+.isSingup {
+  color: darkgray;
+}
+.singup {
+  text-decoration: underline;
+}
+.singup:hover {
+  cursor: pointer;
+  color: black;
+  transition: 0.3s;
+}
+
+/* 4 project  */
+
+.profile-container {
+  width: 400px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  margin: 40px auto;
+}
+.profile-description {
+  padding: 10px 20px;
+}
+.title{
+    font-size:24px;
+}
+
+.logo {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.footer {
+  border-top: 1px solid lightgray;
+  padding: 2px 20px;
+  font-weight: 600;
+  color: #42aaf5;
+ cursor: pointer;
+}
